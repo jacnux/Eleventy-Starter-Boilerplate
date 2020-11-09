@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
+  "site_name": "Photograhes et Photographie",
+  "title": "Photographes et Photographie",
+  "description": "Photo de rue",
   "url": "https://example.com",
-  "locale": "en",
-  "author": "Anonymous"
+  "locale": "fr",
+  "author": "jac"
 }
